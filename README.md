@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 I'm Gregory!
+Breaking things since 2012
 
 <!--
 **bloxgate/bloxgate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
