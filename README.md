@@ -1,6 +1,15 @@
 ### 👋 I'm Gregory!
 Breaking things since 2012
 
+Also be sure to checkout my GitLab, over [here](https://gitlab.com/bloxgate)
+
+Some projects I'm proud of, (mostly) other than those I have pinned:
+- [Cicero](https://gitlab.com/bloxgate/cicero-bot) (**external link**), a bot for Halo Space Station 13's Discord server. Made with Discord4J
+- [Spigot-Slackbridge](https://github.com/bloxgate/Spigot-SlackBridge), a 2-way Slack to Minecraft chat plugin for Spigot & PaperMC
+- [BYOND4K](https://github.com/bloxgate/byond4k), a Kotlin library for sending and recieving messages in BYOND's /world/Topic format
+- [Roll20 OotDL Calendar](https://github.com/bloxgate/roll20-ootdl-calendar), a Kotlin/JS script for Roll20's API implementing a fictional derivative of the Attic calendar
+- [Space Travel Time Calculator](https://github.com/bloxgate/gurps-utility-programs/tree/master/space-travel-time-calculator), calculates the travel time between several stars within 12 ly of Earth. Useful for GUPRS Space 3e
+
 <!--
 **bloxgate/bloxgate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
